@@ -1,11 +1,6 @@
+.env
 __pycache__/
 *.pyc
-.env
-.env.*
-!.env.example
-venv/
-.venv/
 .git/
-*.md
-tests/
-.DS_Store
+.venv/
+venv/
